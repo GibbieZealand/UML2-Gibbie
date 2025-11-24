@@ -3,76 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6530DC87-8FD0-4A45-809C-AD4809DE08B7}|UML2Console\\UML2Console.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\uml2console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6530DC87-8FD0-4A45-809C-AD4809DE08B7}|UML2Console\\UML2Console.csproj|solutionrelative:uml2console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\pizzalibrary\\services\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\services\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\pizzalibrary\\models\\companyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\models\\companyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\pizzalibrary\\exceptions\\toolowdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\exceptions\\toolowdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\pizzalibrary\\exceptions\\toohighdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\exceptions\\toohighdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\pizzalibrary\\exceptions\\customermobileexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\exceptions\\customermobileexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ED46C39C-DAB6-4DF1-A717-7F43A28AE635}|ConsoleMenu\\ConsoleMenu.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\consolemenu\\menu\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED46C39C-DAB6-4DF1-A717-7F43A28AE635}|ConsoleMenu\\ConsoleMenu.csproj|solutionrelative:consolemenu\\menu\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED46C39C-DAB6-4DF1-A717-7F43A28AE635}|ConsoleMenu\\ConsoleMenu.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\consolemenu\\controllers\\customers\\addcustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED46C39C-DAB6-4DF1-A717-7F43A28AE635}|ConsoleMenu\\ConsoleMenu.csproj|solutionrelative:consolemenu\\controllers\\customers\\addcustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED46C39C-DAB6-4DF1-A717-7F43A28AE635}|ConsoleMenu\\ConsoleMenu.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\consolemenu\\menu\\menuitems\\addmenuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED46C39C-DAB6-4DF1-A717-7F43A28AE635}|ConsoleMenu\\ConsoleMenu.csproj|solutionrelative:consolemenu\\menu\\menuitems\\addmenuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED46C39C-DAB6-4DF1-A717-7F43A28AE635}|ConsoleMenu\\ConsoleMenu.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\consolemenu\\controllers\\customers\\addvipcustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED46C39C-DAB6-4DF1-A717-7F43A28AE635}|ConsoleMenu\\ConsoleMenu.csproj|solutionrelative:consolemenu\\controllers\\customers\\addvipcustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\pizzalibrary\\exceptions\\menuitemexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\exceptions\\menuitemexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\pizzalibrary\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\pizzalibrary\\models\\menutype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\models\\menutype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\pizzalibrary\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\pizzalibrary\\interfaces\\icustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\interfaces\\icustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\pizzalibrary\\models\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\models\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\pizzalibrary\\models\\vipcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\models\\vipcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|c:\\users\\playm\\onedrive\\desktop\\school stuff\\coding\\assignments\\uml2gibbie\\pizzalibrary\\data\\mockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D47B4D3-7CBD-4884-B93A-44ED28EB6677}|PizzaLibrary\\PizzaLibrary.csproj|solutionrelative:pizzalibrary\\data\\mockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -87,20 +19,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\UML2Console\\Program.cs",
-              "RelativeDocumentMoniker": "UML2Console\\Program.cs",
-              "ToolTip": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\UML2Console\\Program.cs",
-              "RelativeToolTip": "UML2Console\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAswCoAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T08:53:49.005Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "UserMenu.cs",
               "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\ConsoleMenu\\Menu\\UserMenu.cs",
               "RelativeDocumentMoniker": "ConsoleMenu\\Menu\\UserMenu.cs",
@@ -118,215 +36,15 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CompanyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Models\\CompanyInfo.cs",
-              "RelativeDocumentMoniker": "PizzaLibrary\\Models\\CompanyInfo.cs",
-              "ToolTip": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Models\\CompanyInfo.cs",
-              "RelativeToolTip": "PizzaLibrary\\Models\\CompanyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T16:46:04.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TooLowDiscount.cs",
-              "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Exceptions\\TooLowDiscount.cs",
-              "RelativeDocumentMoniker": "PizzaLibrary\\Exceptions\\TooLowDiscount.cs",
-              "ToolTip": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Exceptions\\TooLowDiscount.cs",
-              "RelativeToolTip": "PizzaLibrary\\Exceptions\\TooLowDiscount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T16:24:57.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomerMobileExist.cs",
-              "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Exceptions\\CustomerMobileExist.cs",
-              "RelativeDocumentMoniker": "PizzaLibrary\\Exceptions\\CustomerMobileExist.cs",
-              "ToolTip": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Exceptions\\CustomerMobileExist.cs",
-              "RelativeToolTip": "PizzaLibrary\\Exceptions\\CustomerMobileExist.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:30:30.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TooHighDiscount.cs",
-              "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Exceptions\\TooHighDiscount.cs",
-              "RelativeDocumentMoniker": "PizzaLibrary\\Exceptions\\TooHighDiscount.cs",
-              "ToolTip": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Exceptions\\TooHighDiscount.cs",
-              "RelativeToolTip": "PizzaLibrary\\Exceptions\\TooHighDiscount.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:31:56.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AddVIPCustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\ConsoleMenu\\Controllers\\Customers\\AddVIPCustomerController.cs",
-              "RelativeDocumentMoniker": "ConsoleMenu\\Controllers\\Customers\\AddVIPCustomerController.cs",
-              "ToolTip": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\ConsoleMenu\\Controllers\\Customers\\AddVIPCustomerController.cs",
-              "RelativeToolTip": "ConsoleMenu\\Controllers\\Customers\\AddVIPCustomerController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAtwAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:44:16.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Services\\CustomerRepo.cs",
-              "RelativeDocumentMoniker": "PizzaLibrary\\Services\\CustomerRepo.cs",
-              "ToolTip": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Services\\CustomerRepo.cs",
-              "RelativeToolTip": "PizzaLibrary\\Services\\CustomerRepo.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAswCYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T10:23:19.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddMenuItemController.cs",
-              "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\ConsoleMenu\\Menu\\MenuItems\\AddMenuItemController.cs",
-              "RelativeDocumentMoniker": "ConsoleMenu\\Menu\\MenuItems\\AddMenuItemController.cs",
-              "ToolTip": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\ConsoleMenu\\Menu\\MenuItems\\AddMenuItemController.cs",
-              "RelativeToolTip": "ConsoleMenu\\Menu\\MenuItems\\AddMenuItemController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T10:30:58.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddCustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\ConsoleMenu\\Controllers\\Customers\\AddCustomerController.cs",
-              "RelativeDocumentMoniker": "ConsoleMenu\\Controllers\\Customers\\AddCustomerController.cs",
-              "ToolTip": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\ConsoleMenu\\Controllers\\Customers\\AddCustomerController.cs",
-              "RelativeToolTip": "ConsoleMenu\\Controllers\\Customers\\AddCustomerController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T10:17:37.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MenuItemExist.cs",
-              "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Exceptions\\MenuItemExist.cs",
-              "RelativeDocumentMoniker": "PizzaLibrary\\Exceptions\\MenuItemExist.cs",
-              "ToolTip": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Exceptions\\MenuItemExist.cs",
-              "RelativeToolTip": "PizzaLibrary\\Exceptions\\MenuItemExist.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:51:38.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MenuItem.cs",
-              "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Models\\MenuItem.cs",
-              "RelativeDocumentMoniker": "PizzaLibrary\\Models\\MenuItem.cs",
-              "ToolTip": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Models\\MenuItem.cs",
-              "RelativeToolTip": "PizzaLibrary\\Models\\MenuItem.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T12:27:53.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ICustomerRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Interfaces\\ICustomerRepo.cs",
-              "RelativeDocumentMoniker": "PizzaLibrary\\Interfaces\\ICustomerRepo.cs",
-              "ToolTip": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Interfaces\\ICustomerRepo.cs",
-              "RelativeToolTip": "PizzaLibrary\\Interfaces\\ICustomerRepo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T10:24:43.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MenuType.cs",
-              "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Models\\MenuType.cs",
-              "RelativeDocumentMoniker": "PizzaLibrary\\Models\\MenuType.cs",
-              "ToolTip": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Models\\MenuType.cs",
-              "RelativeToolTip": "PizzaLibrary\\Models\\MenuType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T12:18:26.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "PizzaLibrary\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Models\\Customer.cs",
-              "RelativeToolTip": "PizzaLibrary\\Models\\Customer.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T10:46:18.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "VIPCustomer.cs",
-              "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Models\\VIPCustomer.cs",
-              "RelativeDocumentMoniker": "PizzaLibrary\\Models\\VIPCustomer.cs",
-              "ToolTip": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Models\\VIPCustomer.cs",
-              "RelativeToolTip": "PizzaLibrary\\Models\\VIPCustomer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBYAAACFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T10:03:29.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Beverage.cs",
-              "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Models\\Beverage.cs",
-              "RelativeDocumentMoniker": "PizzaLibrary\\Models\\Beverage.cs",
-              "ToolTip": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Models\\Beverage.cs",
-              "RelativeToolTip": "PizzaLibrary\\Models\\Beverage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T12:18:14.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MockData.cs",
-              "DocumentMoniker": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Data\\MockData.cs",
-              "RelativeDocumentMoniker": "PizzaLibrary\\Data\\MockData.cs",
-              "ToolTip": "C:\\Users\\Playm\\OneDrive\\Desktop\\School stuff\\Coding\\Assignments\\UML2Gibbie\\PizzaLibrary\\Data\\MockData.cs",
-              "RelativeToolTip": "PizzaLibrary\\Data\\MockData.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAD4vxIAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T10:46:39.726Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

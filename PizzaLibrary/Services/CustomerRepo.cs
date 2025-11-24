@@ -55,10 +55,9 @@ namespace PizzaLibrary.Services
         {
             return _customers.ContainsKey(city) ? _customers[city] : null;
         }
-        //Come back to once the VIP Class is established
         public Customer? GetCustomerByClubmember(string clubMember)
         {
-            throw new NotImplementedException();
+            return _customers.ContainsKey(clubMember) ? _customers[clubMember] : null;
         }
         void ICustomerRepository.RemoveCustomer(string mobile)
         {
