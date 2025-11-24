@@ -18,6 +18,7 @@ namespace PizzaLibrary.Models
 
         public string Mobile { get; set; }
         public string Name { get; set; }
+        virtual public int Discount { get; set; }
 
         public Customer(string name, string mobile, string address)
         {

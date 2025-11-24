@@ -20,16 +20,24 @@ MenuItem mI001 = new MenuItem("Romana", 98, "Tomat, ost, Pepperoni, Bacon, Gorgo
 cR001.AddCustomer(c001);
 mIR001.AddMenuItem(mI001);
 
+//cR001.PrintAllCustomers();
+//mIR001.PrintAllMenuItems();
+
+//cR001.RemoveCustomer("12121212");
+//mIR001.RemoveMenuItem(1);
+
+//cR001.GetAll();
+//mIR001.GetAll();
+
+//cR001.SearchByCity("Roskilde");
+//mIR001.GetMenuItemTypeByHighest(MenuType.PIZZECLASSSICHE);
+//mIR001.GetPizzaByHighest();
+//mIR001.PrintMenu();
+
+Customer c002 = new VIPCustomer("wawa", "45", "sj", 23);
+MenuItem mI002 = new Beverage("Beer that kills you", 2, "pure ethanol", 100, MenuType.BEVERAGE);
+Customer c003 = new Customer("Daryl", "16161616", "12 Cruise Avenue");
+
 cR001.PrintAllCustomers();
-mIR001.PrintAllMenuItems();
-
-cR001.RemoveCustomer("12121212");
-mIR001.RemoveMenuItem(1);
-
-cR001.GetAll();
-mIR001.GetAll();
-
-cR001.SearchByCity("Roskilde");
-mIR001.GetMenuItemTypeByHighest(MenuType.PIZZECLASSSICHE);
-mIR001.GetPizzaByHighest();
-
+CompanyInfo cI001 = new CompanyInfo("vat", "cvr", "name", 2);
+Console.WriteLine($"{cI001.Vat}, {cI001.Cvr}, {cI001.Name}, {cI001.ClubDiscount}");

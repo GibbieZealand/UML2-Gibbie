@@ -34,18 +34,20 @@ namespace PizzaLibrary.Services
             }
             return null;
         }
-        MenuItem? IMenuItemRepository.GetMenuItemByType(MenuType menuType)
+        //needs to return a list rather than a single item
+        public List<IMenuItem> GetMenuItemByType(MenuType menuType)
         {
+            List<IMenuItem> _itemByType = new List<IMenuItem>();
             foreach (MenuItem menuItem in _menuItemList)
             {
                 if (menuItem.TheMenuType == menuType)
                 {
-                    return menuItem;
+                    _itemByType.Add(menuItem);
                 }
             }
-            return null;
+            return _itemByType;
         }
-        MenuItem? IMenuItemRepository.GetMenuItemTypeByHighest(MenuType menuType)
+        public MenuItem? GetMenuItemTypeByHighest(MenuType menuType)
         {
             foreach (var menuHighest in _menuItemList)
             {
@@ -59,29 +61,19 @@ namespace PizzaLibrary.Services
             }
             return null;
         }
-        MenuItem? IMenuItemRepository.GetPizzaByHighest()
+        public MenuItem? GetPizzaByHighest()
         {
             foreach (var pizzaHighest in _menuItemList)
             {
                 if (pizzaHighest.TheMenuType.ToString().StartsWith("PIZZE"))
                 {
                     var highestPrice = _menuItemList.MaxBy(p => p.Price);
-                    Console.WriteLine($"it works now, dorkass. {pizzaHighest}");
+                    Console.WriteLine($"\nThe highest priced pizza is: {highestPrice.Name} at: {highestPrice.Price}kr.");
                     return highestPrice;
                 }
+                Console.WriteLine();
             }
             return null;
-            //foreach (var pizzaType in Enum.GetNames(typeof(MenuType)))
-            //{
-            //    if (pizzaType.StartsWith("PIZZE")) //The sorting algorithm works, I think. Just need it to actually find the highest value
-            //        //on further reflection, it might be just looking in MenuType, not at the actual menu. fuck.
-            //    {
-            //        var highestPizza = _menuItemList.MaxBy(x => x.Price);
-            //        Console.WriteLine($"Highest price pizza is: {pizzaType}");
-            //        return highestPizza;
-            //    }
-            //}
-            //return null;
         }
         void IMenuItemRepository.RemoveMenuItem(int no)
         {
@@ -100,11 +92,24 @@ namespace PizzaLibrary.Services
         {
             foreach (var menuItem in _menuItemList)
             {
-                Console.WriteLine(menuItem);
+                Console.WriteLine($"{menuItem.No} {menuItem.TheMenuType} {menuItem.Name} {menuItem.Description} {menuItem.Price}kr.");
             }
             Console.WriteLine();
         }
         // "Der skal laves en metode, som kan udskrive et menukort, hvor de forskellige menuitems præsenteres under deres menutype."
-        //wawawa
+        public void PrintMenu()
+        {
+            Console.WriteLine($"\t------------ Menu ------------");
+            foreach (MenuType t in Enum.GetValues(typeof(MenuType)))
+            {
+                Console.WriteLine($"\n\t{t}");
+                List<IMenuItem> itemsOfType = GetMenuItemByType(t);
+                foreach (var menuTypeItem in itemsOfType)
+                {
+                    Console.WriteLine($"\t * {menuTypeItem.Name}");
+                }
+            }
+            Console.WriteLine("\n\t------------------------------");
+        }
     }
 }

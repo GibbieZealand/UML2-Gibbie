@@ -1,0 +1,12 @@
+C:\Users\Playm\OneDrive\Desktop\School stuff\Coding\Assignments\UML2Gibbie\PizzaLibrary\bin\Debug\net8.0\PizzaLibrary.deps.json
+C:\Users\Playm\OneDrive\Desktop\School stuff\Coding\Assignments\UML2Gibbie\PizzaLibrary\bin\Debug\net8.0\PizzaLibrary.dll
+C:\Users\Playm\OneDrive\Desktop\School stuff\Coding\Assignments\UML2Gibbie\PizzaLibrary\bin\Debug\net8.0\PizzaLibrary.pdb
+C:\Users\Playm\OneDrive\Desktop\School stuff\Coding\Assignments\UML2Gibbie\PizzaLibrary\obj\Debug\net8.0\PizzaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Playm\OneDrive\Desktop\School stuff\Coding\Assignments\UML2Gibbie\PizzaLibrary\obj\Debug\net8.0\PizzaLibrary.AssemblyInfoInputs.cache
+C:\Users\Playm\OneDrive\Desktop\School stuff\Coding\Assignments\UML2Gibbie\PizzaLibrary\obj\Debug\net8.0\PizzaLibrary.AssemblyInfo.cs
+C:\Users\Playm\OneDrive\Desktop\School stuff\Coding\Assignments\UML2Gibbie\PizzaLibrary\obj\Debug\net8.0\PizzaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Playm\OneDrive\Desktop\School stuff\Coding\Assignments\UML2Gibbie\PizzaLibrary\obj\Debug\net8.0\PizzaLibrary.dll
+C:\Users\Playm\OneDrive\Desktop\School stuff\Coding\Assignments\UML2Gibbie\PizzaLibrary\obj\Debug\net8.0\refint\PizzaLibrary.dll
+C:\Users\Playm\OneDrive\Desktop\School stuff\Coding\Assignments\UML2Gibbie\PizzaLibrary\obj\Debug\net8.0\PizzaLibrary.pdb
+C:\Users\Playm\OneDrive\Desktop\School stuff\Coding\Assignments\UML2Gibbie\PizzaLibrary\obj\Debug\net8.0\ref\PizzaLibrary.dll
+C:\Users\Playm\OneDrive\Desktop\School stuff\Coding\Assignments\UML2Gibbie\PizzaLibrary\obj\Debug\net8.0\PizzaLibrary.sourcelink.json

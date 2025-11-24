@@ -1,11 +1,14 @@
-﻿using PizzaLibrary.Interfaces;
+﻿using PizzaLibrary.Data;
+using PizzaLibrary.Exceptions;
+using PizzaLibrary.Interfaces;
 using PizzaLibrary.Models;
-using PizzaLibrary.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace PizzaLibrary.Services
 {
@@ -30,7 +33,19 @@ namespace PizzaLibrary.Services
 
         void ICustomerRepository.AddCustomer(Customer customer)
         {
-            _customers[customer.Mobile] = customer;
+            try
+            {
+                _customers[customer.Mobile] = customer;
+                CheckExistingMobile(customer.Mobile);
+            }
+            catch (CustomerMobileExists cMex)
+            {
+                Console.WriteLine(cMex.Message);
+            }
+        }
+        void ICustomerRepository.AddVIPCustomer(VIPCustomer vipCustomer)
+        {
+            _customers[vipCustomer.Mobile] = vipCustomer;
         }
         Customer? ICustomerRepository.GetCustomerByMobile(string mobile)
         {
@@ -41,7 +56,7 @@ namespace PizzaLibrary.Services
             return _customers.ContainsKey(city) ? _customers[city] : null;
         }
         //Come back to once the VIP Class is established
-        public Customer? GetCustomerByVIP(string VIP)
+        public Customer? GetCustomerByClubmember(string clubMember)
         {
             throw new NotImplementedException();
         }
@@ -54,9 +69,23 @@ namespace PizzaLibrary.Services
         {
             foreach(var customer in _customers)
             {
-                Console.WriteLine(customer);
+                Console.WriteLine($"{customer.Value.Id} {customer.Value.Name} " +
+                    $"at {customer.Value.Address} " +
+                    $"contact {customer.Value.Mobile}, " +
+                    $"is club member?: {customer.Value.ClubMember}, " +
+                    $"VIP Discount: {customer.Value.Discount}%");
             }
             Console.WriteLine();
+        }
+        void CheckExistingMobile(string mobile)
+        {
+            foreach (var customer in _customers)
+            {
+                if (customer.Value.Mobile.Equals(mobile)) 
+                {
+                    throw new CustomerMobileExists("Dette nummer er allerede registreret.");
+                }
+            }
         }
     }
 }

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleMenu/1.0.0": {
+        "dependencies": {
+          "PizzaLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleMenu.dll": {}
+        }
+      },
+      "PizzaLibrary/1.0.0": {
+        "runtime": {
+          "PizzaLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleMenu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

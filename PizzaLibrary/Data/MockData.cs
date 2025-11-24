@@ -16,7 +16,8 @@ namespace PizzaLibrary.Data
             { "12121212", new Customer("Mikkel", "12121212", "Street 123") },
             { "13131313", new Customer("Charlotte", "13131313", "Avenue 321") },
             { "14141414", new Customer("Carina", "14141414", "High Street 234") },
-            { "15151515", new Customer("Muhammed", "15151515", "North Street 345") }
+            { "15151515", new Customer("Muhammed", "15151515", "North Street 345") },
+            {"12312312", new VIPCustomer("Christopher", "12312312", "South Street 452", 20)}
                 };
 
             private static List<MenuItem> _menuItemData =
@@ -29,7 +30,8 @@ namespace PizzaLibrary.Data
             new MenuItem("Quattro Stagioni", 98, "Tomat, ost, skinke, champignon, rejer & paprika", MenuType.PIZZECLASSSICHE),
             new MenuItem("Marinara", 97, "Tomat, ost, rejer, muslinger & hvidløg", MenuType.PIZZECLASSSICHE),
             new MenuItem("Vegetariana", 98, "Tomat, ost & grønsager", MenuType.PIZZECLASSSICHE),
-            new MenuItem("Italiana", 97, "Tomat, ost, løg & kødsauce", MenuType.PIZZECLASSSICHE)
+            new MenuItem("Italiana", 97, "Tomat, ost, løg & kødsauce", MenuType.PIZZECLASSSICHE),
+            new MenuItem("Schiacciata", 65, "Tomato, ost, skinke, pesto", MenuType.SANDWICHES)
 
                 };
             #endregion
